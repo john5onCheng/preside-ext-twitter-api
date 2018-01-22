@@ -1,0 +1,25 @@
+{
+    "name":"PresideCMS Extension: Twitter API",
+    "type":"preside-extensions",
+    "version":"1.0.4",
+    "location":"https://github.com/john5oncheng/preside-ext-twitter-api/archive/v1.0.1.zip",
+    "author":"Johnson Cheng",
+    "directory":"application/extensions",
+    "homepage":"https://github.com/john5oncheng/preside-ext-twitter-api",
+    "documentation":"https://github.com/john5oncheng/preside-ext-twitter-api/wiki",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/john5oncheng/preside-ext-twitter-api"
+    },
+    "bugs":"https://github.com/john5oncheng/preside-ext-twitter-api/issues",
+    "slug":"preside-ext-twitter-api",
+    "projectURL":"",
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".travis.yml",
+        ".twgit_features_subject",
+        "*.sh",
+        "docs"
+    ]
+}
