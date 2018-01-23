@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="system-config.twitter_api:">
+	<tab id="app_setting">
+		<fieldset id="app_setting">
+			<field name="api_key"    control="textinput"  />
+			<field name="api_secret" control="textinput"  />
+		</fieldset>
+	</tab>
+</form>
